@@ -27,7 +27,7 @@
         <!--junint测试版本号-->
         <junit.version>4.12</junit.version>
         <!--mysq驱动-->
-        <mysql.version>5.1.48</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
     </properties>
     <dependencies>
         <dependency>
