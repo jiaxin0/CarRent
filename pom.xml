@@ -15,7 +15,7 @@
 
     <properties>
         <!-- spring版本号 -->
-        <spring.version>5.2.2.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <!-- mybatis版本号 -->
         <mybatis.version>3.5.2</mybatis.version>
         <!--mybatis整合spring版本号-->
